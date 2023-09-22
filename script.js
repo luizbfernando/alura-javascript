@@ -1,4 +1,4 @@
-//var
+//var let e const
 
 /*var altura = 5;
 var comprimento = 7;
@@ -35,3 +35,9 @@ else {
 
 console.log(area);
 
+//-------------------------------------------------------------------------------------------------\\
+
+//tipagem dinãmica
+
+let minhaVar = 567;
+minhaVar = "String";
