@@ -37,7 +37,9 @@ console.log(area);
 
 //-------------------------------------------------------------------------------------------------\\
 
-//tipagem dinãmica
+/**Tipagem dinãmica = poder mudar o valor de um objeto mesmo ele tendo um valor definido ;
+ * 
+*/
 
 let minhaVar = 567;
-minhaVar = "String";
+minhaVar = "Texto";
