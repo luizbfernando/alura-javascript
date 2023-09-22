@@ -1,4 +1,4 @@
-//var
+//var let e const
 
 /*var altura = 5;
 var comprimento = 7;
