@@ -22,3 +22,4 @@ function multiplica(num1 = 1, num2 = 1) {
 console.log (multiplica(soma(4, 5)));
 
 //Caso não queira usar muitos parâmetros, você pode declarar o valor das variáveis ainda dentro da função
+
